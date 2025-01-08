@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Oceanview Resort",
+    "location": "Miami, Florida",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1113560823442253330/original/fe905c46-4243-44bf-bd59-bc8b463326ea.jpeg?im_w=480",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1113560823442253330/original/0c7bca68-276a-490d-87d7-d204f2d19735.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1113560823442253330/original/50468371-c5a4-4827-84b3-5091f84d7034.jpeg?im_w=240"
+    ],
+    "price_per_night": 150,
+    "available_rooms": 10,
+    "max_guests": 4,
+    "beds": 2,
+    "bedrooms": 1,
+    "description": "A beautiful resort with stunning ocean views and top-notch amenities, perfect for a relaxing getaway.",
+    "reviews_count": 25,
+    "stars": 4.5,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Mountain Bliss Lodge",
+    "location": "Aspen, Colorado",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1095593584955712690/original/3e777b1d-29ef-465e-a2cd-010d6382ce59.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1095593584955712690/original/bdc421f6-a745-4334-8485-7b471053819c.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1095593584955712690/original/53edde70-e1dd-47f3-99ca-058806477b8e.jpeg?im_w=480"
+    ],
+    "price_per_night": 200,
+    "available_rooms": 5,
+    "max_guests": 6,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A cozy lodge nestled in the mountains, offering breathtaking views and outdoor adventures.",
+    "reviews_count": 18,
+    "stars": 4.7,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Cityscape Hotel",
+    "location": "New York City, New York",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1133364402111191988/original/dc8b5127-351b-418b-afef-897f34569e4f.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1133364402111191988/original/297fd939-f38c-4d72-a94a-cc53a85e5bd4.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1133364402111191988/original/21396bf2-6eae-49dc-94c9-ecc93c86ee05.jpeg?im_w=480"
+    ],
+    "price_per_night": 180,
+    "available_rooms": 15,
+    "max_guests": 3,
+    "beds": 1,
+    "bedrooms": 1,
+    "description": "Modern hotel located in the heart of the city, offering luxurious rooms and convenient access to top attractions.",
+    "reviews_count": 35,
+    "stars": 4.3,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Lakeside Cottage",
+    "location": "Lake Tahoe, California",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1134181714576332581/original/11800eeb-9255-499e-bdb2-a95ef3523231.jpeg?im_w=480",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1134181714576332581/original/7961eb71-8a24-4fb4-b689-7fbb5c7b7ac0.jpeg?im_w=480"
+    ],
+    "price_per_night": 120,
+    "available_rooms": 8,
+    "max_guests": 5,
+    "beds": 2,
+    "bedrooms": 2,
+    "description": "Charming cottage by the lake, perfect for a peaceful retreat with family or friends.",
+    "reviews_count": 20,
+    "stars": 4.6,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Desert Oasis Hotel",
+    "location": "Phoenix, Arizona",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1096737554581311057/original/5561aa3c-8984-40d4-b4d4-1954c75a171f.jpeg?im_w=240",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1096737554581311057/original/c1345744-f4ba-4b14-97a3-924eab7455ec.jpeg?im_w=480"
+    ],
+    "price_per_night": 130,
+    "available_rooms": 12,
+    "max_guests": 4,
+    "beds": 2,
+    "bedrooms": 1,
+    "description": "Experience tranquility in the desert with modern comforts and beautiful scenery.",
+    "reviews_count": 22,
+    "stars": 4.4,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Tropical Retreat",
+    "location": "Honolulu, Hawaii",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg",
+      "https://example.com/image3.jpg"
+    ],
+    "price_per_night": 300,
+    "available_rooms": 10,
+    "max_guests": 6,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A luxurious tropical retreat with ocean views and stunning sunsets.",
+    "reviews_count": 40,
+    "stars": 4.9,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Countryside Escape",
+    "location": "Nashville, Tennessee",
+    "images": [
+      "https://example.com/image4.jpg",
+      "https://example.com/image5.jpg",
+      "https://example.com/image6.jpg"
+    ],
+    "price_per_night": 90,
+    "available_rooms": 20,
+    "max_guests": 2,
+    "beds": 1,
+    "bedrooms": 1,
+    "description": "Rustic escape in the countryside with warm hospitality and scenic views.",
+    "reviews_count": 15,
+    "stars": 4.2,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Modern City Hub",
+    "location": "Chicago, Illinois",
+    "images": [
+      "https://example.com/image7.jpg",
+      "https://example.com/image8.jpg",
+      "https://example.com/image9.jpg"
+    ],
+    "price_per_night": 180,
+    "available_rooms": 15,
+    "max_guests": 3,
+    "beds": 1,
+    "bedrooms": 1,
+    "description": "Stylish city hub with modern amenities and proximity to top attractions.",
+    "reviews_count": 28,
+    "stars": 4.5,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Historic Manor",
+    "location": "Charleston, South Carolina",
+    "images": [
+      "https://example.com/image10.jpg",
+      "https://example.com/image11.jpg",
+      "https://example.com/image12.jpg"
+    ],
+    "price_per_night": 250,
+    "available_rooms": 7,
+    "max_guests": 4,
+    "beds": 2,
+    "bedrooms": 2,
+    "description": "A grand manor with a rich history, offering elegance and charm in every corner.",
+    "reviews_count": 12,
+    "stars": 4.8,
+    "amenities": ["Beach access", "Private pool", "Free Wi-Fi", "Kitchen"]
+  },
+  {
+    "name": "Luxury Penthouse",
+    "location": "San Francisco, California",
+    "images": [
+      "https://example.com/image13.jpg",
+      "https://example.com/image14.jpg",
+      "https://example.com/image15.jpg"
+    ],
+    "price_per_night": 400,
+    "available_rooms": 3,
+    "max_guests": 8,
+    "beds": 4,
+    "bedrooms": 3,
+    "description": "An extravagant penthouse with panoramic city views and top-tier amenities.",
+    "reviews_count": 32,
+    "stars": 4.9,
+    "amenities": [
+      "Rooftop terrace",
+      "Gym",
+      "Free Wi-Fi",
+      "Private chef available"
+    ]
+  },
+  {
+    "name": "Cabin in the Woods",
+    "location": "Portland, Oregon",
+    "images": [
+      "https://example.com/image16.jpg",
+      "https://example.com/image17.jpg",
+      "https://example.com/image18.jpg"
+    ],
+    "price_per_night": 110,
+    "available_rooms": 6,
+    "max_guests": 5,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A serene cabin surrounded by nature, perfect for a peaceful getaway.",
+    "reviews_count": 14,
+    "stars": 4.5,
+    "amenities": ["Fireplace", "Hiking trails", "Barbecue grill", "Free Wi-Fi"]
+  },
+  {
+    "name": "Beachfront Villa",
+    "location": "Malibu, California",
+    "images": [
+      "https://example.com/image19.jpg",
+      "https://example.com/image20.jpg",
+      "https://example.com/image21.jpg"
+    ],
+    "price_per_night": 500,
+    "available_rooms": 5,
+    "max_guests": 10,
+    "beds": 5,
+    "bedrooms": 4,
+    "description": "A luxurious beachfront villa with stunning ocean views and private beach access.",
+    "reviews_count": 45,
+    "stars": 5.0,
+    "amenities": ["Private pool", "Jacuzzi", "Free Wi-Fi", "Gourmet kitchen"]
+  },
+  {
+    "name": "Urban Loft",
+    "location": "Seattle, Washington",
+    "images": [
+      "https://example.com/image22.jpg",
+      "https://example.com/image23.jpg",
+      "https://example.com/image24.jpg"
+    ],
+    "price_per_night": 160,
+    "available_rooms": 8,
+    "max_guests": 3,
+    "beds": 1,
+    "bedrooms": 1,
+    "description": "A chic urban loft with modern decor and a convenient downtown location.",
+    "reviews_count": 25,
+    "stars": 4.6,
+    "amenities": ["Gym", "Parking", "Free Wi-Fi", "Pet-friendly"]
+  },
+  {
+    "name": "Countryside Barnhouse",
+    "location": "Austin, Texas",
+    "images": [
+      "https://example.com/image25.jpg",
+      "https://example.com/image26.jpg",
+      "https://example.com/image27.jpg"
+    ],
+    "price_per_night": 95,
+    "available_rooms": 10,
+    "max_guests": 6,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A rustic barnhouse in the countryside, ideal for family getaways and reunions.",
+    "reviews_count": 20,
+    "stars": 4.3,
+    "amenities": [
+      "Outdoor seating",
+      "Barbecue grill",
+      "Free Wi-Fi",
+      "Farm tours"
+    ]
+  },
+  {
+    "name": "Cliffside Retreat",
+    "location": "Big Sur, California",
+    "images": [
+      "https://example.com/image28.jpg",
+      "https://example.com/image29.jpg",
+      "https://example.com/image30.jpg"
+    ],
+    "price_per_night": 450,
+    "available_rooms": 4,
+    "max_guests": 6,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A breathtaking retreat perched on a cliff overlooking the ocean.",
+    "reviews_count": 38,
+    "stars": 4.9,
+    "amenities": ["Hot tub", "Fireplace", "Free Wi-Fi", "Private deck"]
+  },
+  {
+    "name": "Eco-Friendly Bungalow",
+    "location": "Boulder, Colorado",
+    "images": [
+      "https://example.com/image31.jpg",
+      "https://example.com/image32.jpg",
+      "https://example.com/image33.jpg"
+    ],
+    "price_per_night": 140,
+    "available_rooms": 7,
+    "max_guests": 4,
+    "beds": 2,
+    "bedrooms": 1,
+    "description": "A sustainable bungalow with modern amenities and eco-friendly features.",
+    "reviews_count": 18,
+    "stars": 4.7,
+    "amenities": ["Solar power", "Garden", "Free Wi-Fi", "Bicycle rentals"]
+  },
+  {
+    "name": "Romantic Cottage",
+    "location": "Savannah, Georgia",
+    "images": [
+      "https://example.com/image34.jpg",
+      "https://example.com/image35.jpg",
+      "https://example.com/image36.jpg"
+    ],
+    "price_per_night": 120,
+    "available_rooms": 5,
+    "max_guests": 2,
+    "beds": 1,
+    "bedrooms": 1,
+    "description": "A charming cottage with romantic decor and a serene atmosphere.",
+    "reviews_count": 30,
+    "stars": 4.8,
+    "amenities": [
+      "Private garden",
+      "Fireplace",
+      "Free Wi-Fi",
+      "Breakfast included"
+    ]
+  },
+  {
+    "name": "Ski Chalet",
+    "location": "Vail, Colorado",
+    "images": [
+      "https://example.com/image37.jpg",
+      "https://example.com/image38.jpg",
+      "https://example.com/image39.jpg"
+    ],
+    "price_per_night": 300,
+    "available_rooms": 6,
+    "max_guests": 8,
+    "beds": 4,
+    "bedrooms": 3,
+    "description": "A cozy ski chalet with easy access to the slopes and stunning mountain views.",
+    "reviews_count": 22,
+    "stars": 4.5,
+    "amenities": ["Ski-in/ski-out", "Hot tub", "Fireplace", "Free Wi-Fi"]
+  },
+  {
+    "name": "Modern Farmhouse",
+    "location": "Napa Valley, California",
+    "images": [
+      "https://example.com/image40.jpg",
+      "https://example.com/image41.jpg",
+      "https://example.com/image42.jpg"
+    ],
+    "price_per_night": 220,
+    "available_rooms": 5,
+    "max_guests": 6,
+    "beds": 3,
+    "bedrooms": 2,
+    "description": "A stylish farmhouse in the heart of wine country with beautiful vineyard views.",
+    "reviews_count": 26,
+    "stars": 4.7,
+    "amenities": ["Wine tours", "Outdoor seating", "Free Wi-Fi", "Fireplace"]
+  }
+]

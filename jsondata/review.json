@@ -1,0 +1,29 @@
+[
+  {
+    "hotelId": "67782a37129b279c8ad2fbe1",
+    "userId": "6626a39d43f7c5b846f10bfc",
+    "review": "Great place to stay. Rooms were clean, the lawn was great. We loved all the amenities.",
+    "createdAt": "2025-01-04T10:00:00.000Z",
+    "rating": 5,
+    "userImage": "https://lh3.googleusercontent.com/a/ACg8ocKbpseQFcs2gaOoM55I_t5JeUB8mIgvBHn0JaMZaQ8ImXW6WQ=s96-c",
+    "username": "John Smith"
+  },
+  {
+    "hotelId": "67782a37129b279c8ad2fbe1",
+    "userId": "6626a39d43f7c5b846f10bfc",
+    "review": "The location was perfect, and the staff was very friendly. Will definitely come back!",
+    "createdAt": "2025-01-04T10:10:00.000Z",
+    "rating": 4,
+    "userImage": "https://lh3.googleusercontent.com/a/ACg8ocIoNTwYr2J8h-wziFN3FwliGfFxSIjkSl7ni9a9baMRoJa3z12P=s96-c",
+    "username": "Emma Wilson"
+  },
+  {
+    "hotelId": "67782a37129b279c8ad2fbe2",
+    "userId": "6626a39d43f7c5b846f10bfc",
+    "review": "Loved the ambiance and the service. The food options could be better, though.",
+    "createdAt": "2025-01-04T10:20:00.000Z",
+    "rating": 3,
+    "userImage": "https://lh3.googleusercontent.com/a/ACg8ocIoNTwYr2J8h-wziFN3FwliGfFxSIjkSl7ni9a9baMRoJa3z12P=s96-c",
+    "username": "Liam Brown"
+  }
+]
